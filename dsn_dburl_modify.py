@@ -1,5 +1,4 @@
-#!/usr/bin/env python
- import sys
+import sys
 #read properties file
 
 if len(sys.argv) != 2:
